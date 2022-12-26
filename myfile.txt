@@ -1,1 +1,1 @@
-This is some text
+This is some text. We are adding this new line.
